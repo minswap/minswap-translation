@@ -1,7 +1,9 @@
 {
   "1 {0} = {1} {2}": "1 {0} = {1} {2}",
+  "A collateral is required in order to interact with smart contracts on Cardano. The collateral amount should be greater than": "A collateral is required in order to interact with smart contracts on Cardano. The collateral amount should be greater than",
   "Batcher Fee": "Batcher Fee",
   "Cancel": "Cancel",
+  "Collateral not found!": "Collateral not found!",
   "Complete": "Complete",
   "Deposit ADA": "Deposit ADA",
   "Details": "Details",
@@ -11,6 +13,7 @@
   "Route": "Route",
   "Status": "Status",
   "TVL": "TVL",
+  "The amount is separated from your account balance, you can choose to return it to your balance at any time.": "The amount is separated from your account balance, you can choose to return it to your balance at any time.",
   "This amount of ADA will be held as minimum UTxO ADA and will be returned when your orders are processed or cancelled.": "This amount of ADA will be held as minimum UTxO ADA and will be returned when your orders are processed or cancelled.",
   "Volume 24H": "Volume 24H",
   "Volume 7D": "Volume 7D",
