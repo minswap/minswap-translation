@@ -92,7 +92,7 @@
   "Liquidity providers earn a 0.3% fee on all trades proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity.": "Les fournisseurs de liquidités gagnent 0,3 % de frais sur tous les ordres proportionnels à leur part du pool. Les frais sont ajoutés à la pool, accumulés en temps réel et peuvent être réclamés en retirant votre liquidité.",
   "Connect Wallet": "Connecter votre portefeuille",
   "Add Liquidity": "Ajouter de la liquidité",
-  "Pooled {0}:": "Récupéré {0} :",
+  "Pooled {0}:": "Part en {0} :",
   "Your total pool tokens:": "Total des jetons de votre pool :",
   "Your pool share:": "Votre part du pool :",
   "Add": "Ajouter",
