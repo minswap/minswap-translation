@@ -1,7 +1,7 @@
 {
   "1 {0} = {1} {2}": "1 {0} = {1} {2}",
   "Details": "Details",
-  "Note that if you use Typhon wallet in HD mode, you will only see orders sent from current address. For\n                    best experience, please use Typhon in single-address mode.": "Beachten Sie, dass Sie bei der Verwendung von Typhon Wallet im HD-Modus nur die von der aktuellen Adresse gesendeten Aufträge sehen.\nUm die beste Nutzererfahrung zu erzielen, verwenden Sie bitte Typhon im Einzeladressmodus.",
+  "Note that if you use Typhon wallet in HD mode, you will only see orders sent from current address. For\n                    best experience, please use Typhon in single-address mode.": "Beachten Sie, dass Sie bei der Verwendung von Typhon Wallet im HD-Modus nur die von der aktuellen Adresse gesendeten Aufträge sehen. Um die beste Nutzererfahrung zu erzielen, verwenden Sie bitte Typhon im Einzeladressmodus.",
   "Pool": "Pool",
   "Reverse Rate": "Reverse Rate",
   "Route": "Route",
