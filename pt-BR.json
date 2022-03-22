@@ -33,6 +33,7 @@
   "Enter your password": "Enter your password",
   "Enter your seed phrase": "Enter your seed phrase",
   "Farm is under maintenance": "Farm is under maintenance",
+  "Fetching UTxOs, please wait...": "Fetching UTxOs, please wait...",
   "First Token": "First Token",
   "From": "From",
   "Harvest": "Harvest",
