@@ -1,6 +1,7 @@
 {
   "1 {0} = {1} {2}": "1 {0} = {1} {2}",
   "A collateral is required in order to interact with smart contracts on Cardano. The collateral amount should be greater than": "A collateral is required in order to interact with smart contracts on Cardano. The collateral amount should be greater than",
+  "A collateral is required in order to interact with smart contracts on Cardano. You can select an UTXO entry with a value between 5 and 20 as a collateral.": "A collateral is required in order to interact with smart contracts on Cardano. You can select an UTXO entry with a value between 5 and 20 as a collateral.",
   "APR": "APR",
   "Action": "Action",
   "Add Collateral": "Add Collateral",
@@ -85,6 +86,7 @@
   "No asset found.": "No asset found.",
   "No liquidity was found.": "No liquidity was found.",
   "No order": "No order",
+  "No suitable collateral found in your wallet. You can create a UTXO with a value of 5 and select it as collateral once transaction is confirmed.": "No suitable collateral found in your wallet. You can create a UTXO with a value of 5 and select it as collateral once transaction is confirmed.",
   "No tokens to stake {0} LP. You can Add Liquidity.": "No tokens to stake {0} LP. You can Add Liquidity.",
   "No trading route found for this pair": "No trading route found for this pair",
   "Not connected to wallet": "Not connected to wallet",
