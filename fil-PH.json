@@ -119,7 +119,7 @@
   "Pooled {0}": "Pooled {0}",
   "Pooled {0}:": "Pooled {0}:",
   "Price Impact": "Price Impact",
-  "Price impact is more than 10%, check the box to confirm transaction.": "Price impact is more than 10%, check the box to confirm transaction.",
+  "Price impact is more than 10%, make sure to check the price before swapping.": "Price impact is more than 10%, make sure to check the price before swapping.",
   "Pro Mode": "Pro Mode",
   "Processed order": "Processed order",
   "Queueing": "Queueing",
