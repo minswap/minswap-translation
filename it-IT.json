@@ -29,7 +29,7 @@
   "Please write your mnemonic in the right order.": "Please write your mnemonic in the right order.",
   "Pool": "Pool",
   "Pooled {0}": "Pooled {0}",
-  "Price impact is more than 10%, check the box to confirm transaction.": "Price impact is more than 10%, check the box to confirm transaction.",
+  "Price impact is more than 10%, make sure to check the price before swapping.": "Price impact is more than 10%, make sure to check the price before swapping.",
   "Pro Mode": "Pro Mode",
   "Stake": "Stake",
   "Stake LP tokens": "Stake LP tokens",
