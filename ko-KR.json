@@ -86,7 +86,7 @@
   "No Pool": "No Pool",
   "No liquidity was found.": "No liquidity was found.",
   "No order": "No order",
-  "No suitable collateral found in your wallet. You can create a UTXO with a value of 5 and select it as collateral once transaction is confirmed.": "No suitable collateral found in your wallet. You can create a UTXO with a value of 5 and select it as collateral once transaction is confirmed.",
+  "No suitable collateral found in your wallet. You can create a UTXO with a value of 5 and select it as collateral once transaction is confirmed.": "적합한 담보를 지갑에서 찾을 수 없습니다. 5라는 값을 가진 UTXO를 새로 만들고 그 거래가 확인되면 담보로 선택할 수 있습니다.",
   "No tokens to stake {0} LP. You can Add Liquidity.": "No tokens to stake {0} LP. You can Add Liquidity.",
   "No trading route found for this pair": "No trading route found for this pair",
   "Not connected to wallet": "Not connected to wallet",
