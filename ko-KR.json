@@ -177,7 +177,7 @@
   "Withdraw {0} {1} LP": "Withdraw {0} {1} LP",
   "Withdrawing {0} LP tokens": "Withdrawing {0} LP tokens",
   "You have no order": "You have no order",
-  "You must setup collateral first": "You must setup collateral first",
+  "You must setup collateral first": "먼저 담보를 설정해야 합니다.",
   "Your Farms": "Your Farms",
   "Your Liquidity": "Your Liquidity",
   "Your MinWallet has been created successfully.": "Your MinWallet has been created successfully.",
