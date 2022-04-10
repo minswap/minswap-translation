@@ -1,6 +1,6 @@
 {
   "1 {0} = {1} {2}": "1 {0} = {1} {2}",
-  "<span>Please make sure you're visiting</span><a>app.minswap.org</a><span>- bookmark it to be safe.</span>": "<span>다음 사이트를 방문했는지 꼭 확인하세요</span><a>app.minswap.org</a><span>- 안전을 위해 북마크로 등록해 놓으세요.</span>",
+  "<span>Please make sure you're visiting</span><a>app.minswap.org</a><span>- bookmark it to be safe.</span>": "<span>다음 사이트를 방문하는건지 꼭 확인하세요</span><a>app.minswap.org</a><span>- 안전을 위해 북마크로 등록해 놓으세요.</span>",
   "A collateral is required in order to interact with smart contracts on Cardano. You can select an UTxO entry with a value between 5 and 20 as a collateral.": "카르다노 스마트 컨트랙트를 사용하기 위해서는 담보가 필요합니다. 5부터 20사이의 값을 가진 UTxO 엔트리를 담보로 선택할 수 있습니다.",
   "APR": "APR",
   "Action": "Action",
