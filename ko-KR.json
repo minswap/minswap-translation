@@ -152,7 +152,7 @@
   "This token is not divisible.": "This token is not divisible.",
   "This token isn't registered on Cardano Token Registry. Please make sure to double check the policy ID:": "This token isn't registered on Cardano Token Registry. Please make sure to double check the policy ID:",
   "Tiger Farm": "Tiger Farm",
-  "To (estimated)": "To (estimated)",
+  "To (estimated)": "To (예상값)",
   "To LP": "To LP",
   "Track vesting": "Track vesting",
   "Transaction deadline": "Transaction deadline",
