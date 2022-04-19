@@ -267,6 +267,6 @@
   "Search name or paste address": "이름 검색 또는 주소 붙여 넣기",
   "Amount": "금액",
   "Remove Liquidity": "유동성 제거",
-  "<a>Tip:</a> Removing pool tokens converts your position back into underlying tokens at the current rate, proportional to your share of the pool. Accrued fees are included in the amounts you receive.": "<a> 팁:</a> 풀 토큰을 제거하면 풀 쉐어에 비례하여 현재 요율로 포지션을 기본 토큰으로 다시 전환합니다. 미지급 수수료는 귀하가 받는 금액에 포함됩니다.",
+  "<a>Tip:</a> Removing pool tokens converts your position back into underlying tokens at the current rate, proportional to your share of the pool. Accrued fees are included in the amounts you receive.": "<a> 팁:</a> 풀 토큰을 제거하면 풀 지분에 비례하여 기존 토큰으로 현재 시세를 적용하여 돌려받게 됩니다. 누적된 수수료는 돌려받는 금액에 포함됩니다.",
   "Price": "가격"
 }
