@@ -284,7 +284,7 @@
   "Share of Pool": "Aandeel in pool",
   "Max": "Max.",
   "Search name or paste address": "Zoek naam of plak adres",
-  "Amount": "Bedrag",
+  "Amount": "Aantal",
   "Remove Liquidity": "Verwijder liquiditeit",
   "<a>Tip:</a> Removing pool tokens converts your position back into underlying tokens at the current rate, proportional to your share of the pool. Accrued fees are included in the amounts you receive.": "<a>Tip:</a> Het verwijderen van pool tokens zet uw positie weer om in onderliggende tokens tegen de huidige koers, in verhouding tot uw aandeel in de pool. Opgebouwde kosten zijn inbegrepen in de bedragen die u ontvangt.",
   "Price": "Prijs"
