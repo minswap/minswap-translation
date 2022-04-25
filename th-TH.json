@@ -72,6 +72,7 @@
   "Unstake {0} {1}": "Unstake {0} {1}",
   "Unstaking": "Unstaking",
   "Value": "Value",
+  "Volume": "Volume",
   "Wallet": "Wallet",
   "What is Limit Order?": "What is Limit Order?",
   "You will receive boosted MIN rewards after this duration ends. If you unstake LP tokens before lock period ends, you will only receive the normal, unboosted MIN tokens.": "You will receive boosted MIN rewards after this duration ends. If you unstake LP tokens before lock period ends, you will only receive the normal, unboosted MIN tokens.",
