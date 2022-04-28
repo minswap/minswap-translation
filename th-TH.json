@@ -1,5 +1,6 @@
 {
   "1 {0} = {1} {2}": "1 {0} = {1} {2}",
+  "24H PNL": "24H PNL",
   "A limit order is an order for a token at the specified price or better. The token price must reach the limit price or better for the order to be fulfilled.": "A limit order is an order for a token at the specified price or better. The token price must reach the limit price or better for the order to be fulfilled.",
   "ADA Balance": "ADA Balance",
   "APR": "APR",
@@ -7,6 +8,8 @@
   "Add LP": "Add LP",
   "Amount LP": "Amount LP",
   "Amount Tokens": "Amount Tokens",
+  "Base APR": "Base APR",
+  "Boosted APR": "Boosted APR",
   "Copy to clipboard": "Copy to clipboard",
   "Enter a limit price": "Enter a limit price",
   "Executed Price": "Executed Price",
@@ -37,6 +40,7 @@
   "Password": "Password",
   "Place Order": "Place Order",
   "Placing a limit order of {1} {2} for {3} {4}": "Placing a limit order of {1} {2} for {3} {4}",
+  "Policy ID": "Policy ID",
   "Pooled {0}": "Pooled {0}",
   "Pooled {0}:": "Pooled {0}:",
   "Portfolio": "Portfolio",
