@@ -82,6 +82,7 @@
   "Predict swap price based on previous orders in queue for more accurate slippage calculation": "Predict swap price based on previous orders in queue for more accurate slippage calculation",
   "Price impact is more than {0}%, make sure to check the price before swapping.": "Price impact is more than {0}%, make sure to check the price before swapping.",
   "Pro Mode": "Pro Mode",
+  "Reward Earned": "Reward Earned",
   "Search pool by token name": "Search pool by token name",
   "Search pool by token name or policy ID": "Search pool by token name or policy ID",
   "Search token by name or policy ID": "Search token by name or policy ID",
