@@ -156,6 +156,8 @@
   "Zapping {1} {2} to get {3} LP tokens": "Zapping {1} {2} to get {3} LP tokens",
   "missing coin amount": "missing coin amount",
   "points": "points",
+  "{0} APR": "{0} APR",
+  "{0} Boosted APR": "{0} Boosted APR",
   "{0} amount is too small": "{0} amount is too small",
   "{0}x Boost": "{0}x Boost",
   "<span>Please make sure you're visiting</span><a>app.minswap.org</a><span>- bookmark it to be safe.</span>": "<span>Veuillez vous assurer que vous visitez</span><a>app.minswap.org</a><span>- ajoutez le aux favoris pour être sûr.</span>",

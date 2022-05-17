@@ -147,6 +147,8 @@
   "Zap": "Zap",
   "Zapping {1} {2} to get {3} LP tokens": "Zapping {1} {2} to get {3} LP tokens",
   "missing coin amount": "missing coin amount",
+  "{0} APR": "{0} APR",
+  "{0} Boosted APR": "{0} Boosted APR",
   "{0} Days": "{0} Days",
   "{0} amount is too small": "{0} amount is too small",
   "{0} words": "{0} words",
