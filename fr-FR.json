@@ -183,7 +183,7 @@
   "{0} Boosted APR": "{0} Boosted APR",
   "{0} amount is too small": "{0} amount is too small",
   "{0}x Boost": "{0}x Boost",
-  "<span>Please make sure you're visiting</span><a>app.minswap.org</a><span>- bookmark it to be safe.</span>": "<span>Veuillez vous assurer que vous visitez</span><a>app.minswap.org</a><span>- ajoutez le aux favoris pour être sûr.</span>",
+  "<span>Please make sure you're visiting</span><a>app.minswap.org</a><span>- bookmark it to be safe.</span>": "<span>L'addresse doit être : </span><a>app.minswap.org</a><span> mettre en favori pour être sûr.</span>",
   "Search pool by token name": "Rechercher un pool par nom de token",
   "Search token by name": "Rechercher un token par nom",
   "Search token by name or policy ID": "Rechercher un token par nom ou policy ID",
