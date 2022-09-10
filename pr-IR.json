@@ -2,7 +2,7 @@
   "1 {0} = {1} {2}": "1 {0} = {1} {2}",
   "24H PNL": "24H PNL",
   "<a>Tip:</a> Removing pool tokens converts your position back into underlying tokens at the current rate, proportional to your share of the pool. Accrued fees are included in the amounts you receive.": "<a>Tip:</a> حذف توکن‌های استخر، موقعیت شما را با نرخ فعلی، متناسب با سهم شما از استخر, به توکن‌های اساسی تبدیل می‌کند. کارمزد ها در مبالغ دریافتی شما لحاظ می شود",
-  "<span>Please make sure you're visiting</span><a>app.minswap.org</a><span>- bookmark it to be safe.</span>": "<span>بازدید میکندید - برای ایمن بودن آن را نشانک گذاری کنید </span><a>app.minswap.org</a><span> لطفاً مطمئن شوید که از</span>",
+  "<span>Please make sure you're visiting</span><a>app.minswap.org</a><span>- bookmark it to be safe.</span>": "<span>بازدید میکندید - برای ایمن بودن آن را نشانه گذاری کنید </span><a>app.minswap.org</a><span> لطفاً مطمئن شوید که از</span>",
   "A Launch Bowl<br></br>brought to you by Cats,<br></br>for everyone": "A Launch Bowl<br></br>brought to you by Cats,<br></br>for everyone",
   "A collateral is required in order to interact with smart contracts on Cardano. You can select an UTxO entry with a value between 5 and 20 as a collateral.": "برای ارتباط با قرارداد های هوشمند کاردانو شما نیاز به کالترال دارید",
   "A limit order is an order for a token at the specified price or better. The token price must reach the limit price or better for the order to be fulfilled.": "معامله با قیمت دلخواه معامله ایی است که قیمت یه توکن باید به قیمت دلخواه شما یا بهتر از ان برسد تا معامله انجام شود",
