@@ -1,7 +1,7 @@
 {
   "1 {0} = {1} {2}": "1 {0} = {1} {2}",
   "24H PNL": "24H PNL",
-  "A Launch Bowl<br></br>brought to you by Cats,<br></br>for everyone": "Un bol de lancement présenté par les chats,pour tout le monde",
+  "A Launch Bowl<br></br>brought to you by Cats,<br></br>for everyone": "Un bol de lancement<br></br> présenté par les chats,<br></br>pour tout le monde",
   "A collateral is required in order to interact with smart contracts on Cardano. You can select an UTxO entry with a value between 5 and 20 as a collateral.": "A collateral is required in order to interact with smart contracts on Cardano. You can select an UTxO entry with a value between 5 and 20 as a collateral.",
   "A limit order is an order for a token at the specified price or better. The token price must reach the limit price or better for the order to be fulfilled.": "Un ordre à cours limité est un ordre pour un jeton au prix spécifié ou mieux. Le prix symbolique doit atteindre le prix limite ou mieux pour que la commande soit honorée.",
   "Action": "Action",
