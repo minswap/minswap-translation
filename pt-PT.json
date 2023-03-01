@@ -68,6 +68,8 @@
   "End date": "End date",
   "Ended": "Ended",
   "Ended on {0}": "Ended on {0}",
+  "Export data according to filter conditions below": "Export data according to filter conditions below",
+  "Export to CSV": "Export to CSV",
   "FD Market Cap": "FD Market Cap",
   "Fail to submit transaction": "Fail to submit transaction",
   "Failed order": "Failed order",
