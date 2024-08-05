@@ -1,6 +1,5 @@
 {
   " You place a Limit Order to buy MIN at 6 ADA (C) per MIN (better than the current price).": " You place a Limit Order to buy MIN at 6 ADA (C) per MIN (better than the current price).",
-  "“Protocol-Owned Liquidity” (POL) has always been a focus of the Minswap DEX. POL refers to a protocol owning its own liquidity, in the case of the Minswap DEX, it means the Assets that the Minswap DAO Treasury owns and manages. Below, you can see an Overview of these Assets and their different sources.": "“Protocol-Owned Liquidity” (POL) has always been a focus of the Minswap DEX. POL refers to a protocol owning its own liquidity, in the case of the Minswap DEX, it means the Assets that the Minswap DAO Treasury owns and manages. Below, you can see an Overview of these Assets and their different sources.",
   "{{0}} days left": "{{0}} ngày",
   "{{0}}x Boost": "{{0}}x Boost",
   "{{asset}} amount is too small": "Số lượng {{asset}} quá nhỏ",
@@ -359,6 +358,7 @@
   "Language": "Ngôn ngữ",
   "Last updated": "Last updated",
   "Later": "Để sau",
+  "Launch Bowl POL": "Launch Bowl POL",
   "Launch Bowl type": "Launch Bowl type",
   "Launch ended": "Launch ended",
   "Launch ends": "Launch ends",
@@ -444,6 +444,7 @@
   "Minimum receive": "Minimum receive",
   "Minimum swap amount": "Minimum swap amount",
   "Minswap app": "Minswap app",
+  "Minswap DAO acquires Protocol-Owned Liquidity (POL) from successful LBE launches. The POL always stay on Minswap DEX to provide traders with deeper and more stable liquidity. Moreover, POL also provides DAO revenue from yield farming and other earning activities.": "Minswap DAO acquires Protocol-Owned Liquidity (POL) from successful LBE launches. The POL always stay on Minswap DEX to provide traders with deeper and more stable liquidity. Moreover, POL also provides DAO revenue from yield farming and other earning activities.",
   "Minswap V2 brings 10x more throughput, Advanced Order Types, Composability, and much more! Dive into it now!": "Minswap V2 brings 10x more throughput, Advanced Order Types, Composability, and much more! Dive into it now!",
   "Minswap V2 is ready": "Minswap V2 is ready",
   "Minswap’s global community of users, developers, designers & educators drives the success of the Protocol. Join the conversation.": "Minswap’s global community of users, developers, designers & educators drives the success of the Protocol. Join the conversation.",
