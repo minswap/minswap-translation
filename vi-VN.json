@@ -4,6 +4,7 @@
   "{{0}}x Boost": "{{0}}x Boost",
   "{{asset}} amount is too small": "Số lượng {{asset}} quá nhỏ",
   "{{asset}} can be unstaked at any time, but you will forfeit all your accrued rewards.": "{{asset}} can be unstaked at any time, but you will forfeit all your accrued rewards.",
+  "{{asset}} change": "{{asset}} change",
   "{{asset}} deposited": "{{asset}} deposited",
   "{{asset}} information": "{{asset}} information",
   "{{asset}} staked": "{{asset}} staked",
