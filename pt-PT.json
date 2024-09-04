@@ -751,6 +751,7 @@
   "Search by address or stake key": "Search by address or stake key",
   "Search by ticker, token, pair": "Search by ticker, token, pair",
   "Search by token name": "Pesquisar pelo nome do token",
+  "Search by token name, project name": "Search by token name, project name",
   "Search by token name, txID": "Search by token name, txID",
   "Search by tokens name or symbol": "Search by tokens name or symbol",
   "See less": "See less",
