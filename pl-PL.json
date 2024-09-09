@@ -737,6 +737,7 @@
   "Proposal end date": "Proposal end date",
   "Proposal end date is required.": "Proposal end date is required.",
   "Proposal end date must be in the future.": "Proposal end date must be in the future.",
+  "Proposal end date must be within {{date}} days": "Proposal end date must be within {{date}} days",
   "Proposals": "Proposals",
   "Proposer": "Proposer",
   "Provide": "Provide",
