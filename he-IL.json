@@ -243,6 +243,7 @@
   "Decimals determine the divisibility of a token, allowing for smaller fractional units to be minted and traded. The less total supply a token is, the more decimals it should have.": "Decimals determine the divisibility of a token, allowing for smaller fractional units to be minted and traded. The less total supply a token is, the more decimals it should have.",
   "Decimals is required.": "Decimals is required.",
   "Decimals must be from 1 to 10.": "Decimals must be from 1 to 10.",
+  "Default is 7 days, max is 30 days.": "Default is 7 days, max is 30 days.",
   "Default mode": "Default mode",
   "DeFi Beats Here: Our Numbers": "DeFi Beats Here: Our Numbers",
   "Delegate": "Delegate",
