@@ -753,6 +753,7 @@
   "Project name is required": "Project name is required",
   "Project token distribution": "Project token distribution",
   "Projects": "Projects",
+  "Proposal deposit fee is {{amount}} ADA. If the proposal is approved, the deposit amount will be refunded to you. Otherwise, they will be allocated to the ADA-MIN pool.": "Proposal deposit fee is {{amount}} ADA. If the proposal is approved, the deposit amount will be refunded to you. Otherwise, they will be allocated to the ADA-MIN pool.",
   "Proposal deposit fee is 200 ADA. If the proposal is approved, the deposit amount will be refunded to you. Otherwise, they will be allocated to the pool.": "Proposal deposit fee is 200 ADA. If the proposal is approved, the deposit amount will be refunded to you. Otherwise, they will be allocated to the pool.",
   "Proposal end date": "Proposal end date",
   "Proposal end date is required.": "Proposal end date is required.",
