@@ -1007,6 +1007,7 @@
   "This token has not been verified yet. Please ensure the correct policyId.": "This token has not been verified yet. Please ensure the correct policyId.",
   "This token is detected to have unusual activities.": "This token is detected to have unusual activities.",
   "This token isn't registered on Cardano Token Registry. Please make sure to double check the policy Id: <span>{{policy}}</span>": "This token isn't registered on Cardano Token Registry. Please make sure to double check the policy Id: <span>{{policy}}</span>",
+  "This wallet is linked with your MetaMask Account 1 and connect to Cardano network.": "This wallet is linked with your MetaMask Account 1 and connect to Cardano network.",
   "Ticker": "Ticker",
   "Ticker is required": "Ticker is required",
   "Tier": "Tier",
