@@ -534,7 +534,7 @@
   "Mint Amount is required": "발행 수량이 필요합니다",
   "Mint Amount is too big.": "발행 수량이 너무 큽니다.",
   "Mint new token": "새로운 토큰 발행",
-  "Mint token": "토큰 민팅",
+  "Mint token": "토큰 발행",
   "Mint with timelock": "타임락 발행",
   "Mint your own token": "귀하의 토큰을 발행하세요",
   "Minting token {{token}}": "발행중인 토큰 {{token}}",
