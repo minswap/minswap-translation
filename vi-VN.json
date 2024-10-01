@@ -1304,7 +1304,7 @@
   "Your LP tokens": "Your LP tokens",
   "Your machine time is incorrect. Please check again.": "Thời gian trên máy bạn không đúng. Vui lòng kiểm tra lại.",
   "Your order is out-of-slippage compared to the current market price. You should update the order with the new price.": "Your order is out-of-slippage compared to the current market price. You should update the order with the new price.",
-  "Your order price differs from the market price by {{- percent}}%. You should update the order with the latest price.": "Your order price differs from the market price by {{- percent}}%. You should update the order with the latest price.",
+  "Your order price differs from the market price by {{- percent}}%. You should update it with the latest price.": "Your order price differs from the market price by {{- percent}}%. You should update it with the latest price.",
   "Your order will be filled in parts if there's not enough liquidity to fill it entirely at once.": "Your order will be filled in parts if there's not enough liquidity to fill it entirely at once.",
   "Your order will only be filled if the price of MIN drops to 6 ADA (C) or lower.": "Your order will only be filled if the price of MIN drops to 6 ADA (C) or lower.",
   "Your orders": "Lệnh của bạn",
