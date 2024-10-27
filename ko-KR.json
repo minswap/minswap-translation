@@ -1211,6 +1211,6 @@
   "Zap Out": "Zap Out(잽아웃)",
   "Zap-in phase": "Zap-in 단계",
   "Zap-In Phase": "Zap-In 단계",
-  "Zapping in {{name}} pool": "Zapping in {{name}} pool",
-  "Zapping out {{amount}} {{asset}}": "Zapping out {{amount}} {{asset}}"
+  "Zapping in {{name}} pool": "Zapping in(잽인) {{name}} pool",
+  "Zapping out {{amount}} {{asset}}": "Zapping out(잽아웃) {{amount}} {{asset}}"
 }
