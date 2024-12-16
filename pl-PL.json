@@ -1327,7 +1327,7 @@
   "You will have to pay a small fees to cancel your orders. Are you sure to continue?": "You will have to pay a small fees to cancel your orders. Are you sure to continue?",
   "You will receive <bold>{{0}}</bold>.": "You will receive <bold>{{0}}</bold>.",
   "You will receive <strong>{{0}} + {{1}}</strong> tokens.": "You will receive <strong>{{0}} + {{1}}</strong> tokens.",
-  "You will receive the token with the provided data soon after submitting the transaction. Minting fee: 10 ADA.": "You will receive the token with the provided data soon after submitting the transaction. Minting fee: 10 ADA.",
+  "You will receive the token with the provided data soon after submitting the transaction.": "You will receive the token with the provided data soon after submitting the transaction.",
   "You will sell <span1>{{amountIn}}</span1> to receive <span2>{{amountOut}}</span2>": "You will sell <span1>{{amountIn}}</span1> to receive <span2>{{amountOut}}</span2>",
   "You will send <strong>{{0}} + {{1}}</strong> to us and we will send back {{2}} tokens to you in a few minutes.": "You will send <strong>{{0}} + {{1}}</strong> to us and we will send back {{2}} tokens to you in a few minutes.",
   "You will spend <span1>{{amountIn}}</span1> to buy <span2>{{amountOut}}</span2>": "You will spend <span1>{{amountIn}}</span1> to buy <span2>{{amountOut}}</span2>",
