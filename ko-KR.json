@@ -1324,7 +1324,7 @@
   "You will have to pay a small fees to cancel your orders. Are you sure to continue?": "주문을 취소하려면 소액의 수수료를 지불해야 합니다. 그래도 진행하시겠습니까?",
   "You will receive <bold>{{0}}</bold>.": "<span>{{0}}</span>을(를) 받게 됩니다.",
   "You will receive <strong>{{0}} + {{1}}</strong> tokens.": "<strong>{{0}} + {{1}}</strong> 토큰을 받게 됩니다.",
-  "You will receive the token with the provided data soon after submitting the transaction. Minting fee: 10 ADA.": "거래를 제출한 후 곧 제공된 데이터로 토큰을 받을 수 있습니다. 민팅 수수료: 10 ADA",
+  "You will receive the token with the provided data soon after submitting the transaction.": "거래를 제출한 후 곧 제공된 데이터로 토큰을 받을 수 있습니다.",
   "You will sell <span1>{{amountIn}}</span1> to receive <span2>{{amountOut}}</span2>": "<span1>{{amountIn}}</span1>을(를) 매도하여 <span2>{{amountOut}}</span2>을(를) 받게 됩니다",
   "You will send <strong>{{0}} + {{1}}</strong> to us and we will send back {{2}} tokens to you in a few minutes.": "<strong>{{0}} + {{1}}</strong>을(를)보내 주시면 몇 분 후에 {{2}} 토큰을 다시 보내드립니다",
   "You will spend <span1>{{amountIn}}</span1> to buy <span2>{{amountOut}}</span2>": "<span1>{{amountIn}}</span1>을(를) 사용하여 <span2>{{amountOut}}</span2>을(를) 구매하게 됩니다",
