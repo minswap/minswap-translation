@@ -433,6 +433,7 @@
   "I have written the seed phrase and stored it in a secure place.": "저는 시드문구를 적어 안전한 곳에 보관했습니다.",
   "I understand these warnings": "경고사항들을 이해했습니다",
   "I understand this warning": "경고사항을 이해했습니다",
+  "IDO impact": "IDO impact",
   "IDO Launch": "IDO Launch",
   "If a pool is created during the LBE, it will be canceled. Therefore, project owners should not create a pool or circulate tokens during the LBE.": "If a pool is created during the LBE, it will be canceled. Therefore, project owners should not create a pool or circulate tokens during the LBE.",
   "If I clear my local storage without backing up the seed phrase, Minswap cannot retrieve it for me.": "시드문구를 백업하지 않고 로컬 저장소를 지우는 경우, Minswap은 이를 복구할 수 없습니다.",
