@@ -374,6 +374,7 @@
   "Fee is required.": "수수료가 필요합니다.",
   "Fee manager address": "수수료 매니저 주소",
   "Fee paid for the service of off-chain Laminar batcher to process transactions": "트랜잭션 처리를 위한 오프체인 Laminar Batcher(일괄처리) 서비스 수수료",
+  "Fee proposals": "Fee proposals",
   "Fee Proposals": "수수료 제안",
   "Fetching pool data": "Pool 데이터 가져오기",
   "Fiat": "법정화폐",
