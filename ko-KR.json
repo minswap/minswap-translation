@@ -955,6 +955,7 @@
   "Stake your MIN now for<br></br>up to <span>{{apr}}</span>": "지금 MIN을 스테이킹하고 <br></br>최대 <span>{{apr}}</span>까지 받으세요",
   "Stake your MIN today to start earning rewards and boosting your portfolio.": "MIN 토큰을 스테이킹하여 보상 받고 포트폴리오를 강화하세요.",
   "Staked": "스테이킹 수량",
+  "Staked for": "Staked for",
   "Staked LPs": "Staked LPs",
   "Staked only": "스테이킹한 농장만 보기",
   "Staked value": "스테이킹 가치",
