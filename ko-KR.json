@@ -370,6 +370,7 @@
   "Export {{fileName}} file": "{{fileName}} 파일 내보내기",
   "Export CSV": "Export CSV",
   "Export JSON": "JSON 내보내기",
+  "Export LP holders": "Export LP holders",
   "Export public key": "Export public key",
   "Export time": "Export time",
   "Export wallet": "지갑 내보내기",
