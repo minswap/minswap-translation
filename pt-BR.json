@@ -1301,6 +1301,7 @@
   "Vote ({{totalSelected}})": "Vote ({{totalSelected}})",
   "Vote on fee proposals": "Vote on fee proposals",
   "Vote on Minswap proposals": "Vote on Minswap proposals",
+  "Vote result": "Vote result",
   "Votes": "Votes",
   "Voting options": "Voting options",
   "Voting power is determined based on the snapshot of MIN tokens (including those held in LPs and Staking).": "Voting power is determined based on the snapshot of MIN tokens (including those held in LPs and Staking).",

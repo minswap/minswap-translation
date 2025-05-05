@@ -1299,6 +1299,7 @@
   "Vote ({{totalSelected}})": "({{totalSelected}}) 투표",
   "Vote on fee proposals": "수수료 제안에 투표하기",
   "Vote on Minswap proposals": "Minswap 제안에 투표하세요",
+  "Vote result": "Vote result",
   "Votes": "투표 지갑 수",
   "Voting options": "Voting options",
   "Voting power is determined based on the snapshot of MIN tokens (including those held in LPs and Staking).": "보유 투표권(Voting power)는 MIN 토큰의 스냅샷에 따라 결정됩니다(유동성 제공 및 스테이킹에 보유된 토큰을 포함).",
