@@ -445,7 +445,7 @@
   "Forum discussion must be at least {{days}} days old.": "Forum discussion must be at least {{days}} days old.",
   "Frequently asked questions": "자주묻는 질문",
   "From": "부터",
-  "From 0.1% to 1%": "From 0.1% to 1%",
+  "From 0% to 5%": "From 0% to 5%",
   "From date": "시작일자",
   "From date shouldn't be greater than To date.": "시작 일자는 종료 일자 보다 클 수 없습니다.",
   "From token": "대상 토큰",

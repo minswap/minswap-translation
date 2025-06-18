@@ -445,7 +445,7 @@
   "Forum discussion must be at least {{days}} days old.": "Forum discussion must be at least {{days}} days old.",
   "Frequently asked questions": "Frequently asked questions",
   "From": "Từ",
-  "From 0.1% to 1%": "From 0.1% to 1%",
+  "From 0% to 5%": "From 0% to 5%",
   "From date": "From date",
   "From date shouldn't be greater than To date.": "From date shouldn't be greater than To date.",
   "From token": "From token",
