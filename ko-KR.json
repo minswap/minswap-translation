@@ -70,6 +70,7 @@
   "Active until {{0}}": "{{0}}까지 활성화",
   "Active until {{endAt}}": "{{endAt}}까지 활성화",
   "Active until {{time}}": "{{time}}까지 활성화",
+  "ADA balance is too low": "ADA balance is too low",
   "ADA Handle ({{handle}}): not resolved yet.": "ADA Handle ({{handle}}): 아직 해결되지 않음.",
   "ADA target or token supply has been reached or insufficient ADA balance.": "ADA 목표 또는 토큰 공급량이 도달했거나 ADA 잔액이 부족합니다.",
   "ADA Value": "ADA 가치",

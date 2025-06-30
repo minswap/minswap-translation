@@ -70,6 +70,7 @@
   "Active until {{0}}": "Active until {{0}}",
   "Active until {{endAt}}": "Active until {{endAt}}",
   "Active until {{time}}": "Active until {{time}}",
+  "ADA balance is too low": "ADA balance is too low",
   "ADA Handle ({{handle}}): not resolved yet.": "ADA Handle ({{handle}}): not resolved yet.",
   "ADA target or token supply has been reached or insufficient ADA balance.": "ADA target or token supply has been reached or insufficient ADA balance.",
   "ADA Value": "ADA Value",
