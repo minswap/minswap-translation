@@ -1456,6 +1456,7 @@
   "You have to send <span>{{0}}</span> for Batcher fee, <span>{{1}}</span> for Seller fee and <span>{{2}}</span> for Deposit fee. Deposit fee will be returned along with {{3}}.": "You have to send <span>{{0}}</span> for Batcher fee, <span>{{1}}</span> for Seller fee and <span>{{2}}</span> for Deposit fee. Deposit fee will be returned along with {{3}}.",
   "You haven’t filled out all of the fields.": "You haven’t filled out all of the fields.",
   "You haven't minted any tokens": "You haven't minted any tokens",
+  "You must pay <span>{{amount}} ADA</span> to create a new app.": "You must pay <span>{{amount}} ADA</span> to create a new app.",
   "You own MIN and are worried about a price drop. Let’s say 1 MIN = 8 ADA (A).": "You own MIN and are worried about a price drop. Let’s say 1 MIN = 8 ADA (A).",
   "You paid": "You paid",
   "You pay": "You pay",

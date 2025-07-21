@@ -1451,6 +1451,7 @@
   "You have to send <span>{{0}}</span> for Batcher fee, <span>{{1}}</span> for Seller fee and <span>{{2}}</span> for Deposit fee. Deposit fee will be returned along with {{3}}.": "<span>{{0}}</span>을 Batcher 수수료로 보내야 하며, <span>{{1}}</span>은 판매자 수수료, <span>{{2}}</span>은 예치 수수료로 보내야 합니다. 예치 수수료는 {{3}}과 함께 반환됩니다.",
   "You haven’t filled out all of the fields.": "모든 항목을 작성하지 않았습니다.",
   "You haven't minted any tokens": "민팅한 토큰이 없습니다",
+  "You must pay <span>{{amount}} ADA</span> to create a new app.": "You must pay <span>{{amount}} ADA</span> to create a new app.",
   "You own MIN and are worried about a price drop. Let’s say 1 MIN = 8 ADA (A).": "MIN을 보유하고 있으나 가격 하락이 걱정되는 경우. 1 MIN =  8 ADA(A)로 가정.",
   "You paid": "주문 금액",
   "You pay": "주문 금액",
