@@ -1136,6 +1136,7 @@
   "The price from Weighted Arithmetic Mean of all ADA-{{token}} pools.": "모든 ADA-{{token}} pool의 가중 산술 평균 가격.",
   "The rewards have their own end time, and MIN stakers must wait until the staking period concludes to claim the MIN and rewards.": "보상은 각기 종료 시간이 있으며, MIN 스테이커는 스테이킹 기간이 끝날 때까지 MIN과 보상을 청구하기 위해 기다려야 합니다.",
   "The seed phrase is only stored on my computer, and Minswap has no access to it.": "시드문구는 오직 제 컴퓨터에만 저장되며, Minswap은 이에 접근할 수 없습니다.",
+  "The service fee is charged for routing your trade through multiple liquidity sources to find the best price. Service fee is free if using only 1 split on Minswap.": "The service fee is charged for routing your trade through multiple liquidity sources to find the best price. Service fee is free if using only 1 split on Minswap.",
   "The service fee is charged for routing your trade through multiple liquidity sources to find the best price. The fee is calculated as the greater of {{amount}}₳ or {{percent}}% of your trade amount.": "The service fee is charged for routing your trade through multiple liquidity sources to find the best price. The fee is calculated as the greater of {{amount}}₳ or {{percent}}% of your trade amount.",
   "The service fee will be refunded if no split has been filled.": "The service fee will be refunded if no split has been filled.",
   "The smallest amount that can be used in each individual swap, depends on Max. swap count.": "각 개별 스왑에서 사용할 수 있는 최소 금액은 최대 스왑 수에 따라 달라집니다.",
