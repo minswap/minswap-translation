@@ -156,7 +156,7 @@
   "Can't get balance": "잔액을 가져올 수 없습니다",
   "Can't remove all LP balance": "모든 LP 잔액을 제거할 수 없습니다",
   "Cancel": "취소",
-  "Cancel {{count}}/{{total}} selected_other": "Cancel {{count}}/{{total}} selected",
+  "Cancel {{countNum}}/{{totalNum}} selected": "Cancel {{countNum}}/{{totalNum}} selected",
   "Cancel #{{number}}": "Cancel #{{number}}",
   "Cancel connection": "연결 취소",
   "Cancel orders": "주문 취소",

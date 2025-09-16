@@ -156,7 +156,7 @@
   "Can't get balance": "Can't get balance",
   "Can't remove all LP balance": "Can't remove all LP balance",
   "Cancel": "Cancel",
-  "Cancel {{count}}/{{total}} selected_other": "Cancel {{count}}/{{total}} selected",
+  "Cancel {{countNum}}/{{totalNum}} selected": "Cancel {{countNum}}/{{totalNum}} selected",
   "Cancel #{{number}}": "Cancel #{{number}}",
   "Cancel connection": "Cancel connection",
   "Cancel orders": "Cancel orders",
