@@ -1445,6 +1445,8 @@
   "You can adjust this by setting percentage of Slippage Tolerance": "슬리피지 허용 비율을 설정하여 이를 조정할 수 있습니다",
   "You can cancel only 1 order type per transaction: P1s or P2s.": "트랜잭션당 한 가지 주문 유형만 취소할 수 있으며, P1 또는 P2 중 하나입니다.",
   "You can cancel up to {{number}} orders per transaction, but only 1 Splash/Spectrum order can be selected at a time.": "트랜잭션당 최대 {{number}}개의 주문을 취소할 수 있으나 Splash/Spectrum 주문은 한 번에 하나만 선택할 수 있습니다.",
+  "You can cancel only 1 order type per transaction: P1s or P2+P3s.": "You can cancel only 1 order type per transaction: P1s or P2+P3s.",
+  "You can cancel up to {{number}} orders per transaction, but only 1 Splash/Spectrum order or 1 CSWAP order can be selected at a time.": "You can cancel up to {{number}} orders per transaction, but only 1 Splash/Spectrum order or 1 CSWAP order can be selected at a time.",
   "You can connect to any CIP-30-compatible wallet by using its CIP-30 wallet ID (in <pre>window.cardano</pre>)": "CIP-30 호환 지갑에 연결하려면 해당 지갑의 CIP-30 지갑 ID(<pre>window.cardano</pre>)를 사용하여 연결할 수 있습니다",
   "You can harvest up to {{number}} farms in one transaction.": "트랜잭션 한 번으로 최대 {{number}}개의 Farm에서 보상을 동시에 수령할 수 있습니다.",
   "You can stake any amount of $MIN that you prefer and create multiple staking positions (limited to 1 position for Liquid Contract). Each staking position is treated individually, regardless of which contract type you choose.": "원하는 만큼의 $MIN을 스테이킹하고 여러 개의 스테이킹 포지션을 생성할 수 있으며, Liquid Contract는 1개의 포지션으로 제한됩니다. 계약 유형과 관계없이 각 스테이킹 포지션은 개별적으로 관리됩니다.",
