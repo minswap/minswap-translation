@@ -849,6 +849,7 @@
   "Pool Fee history": "Pool 수수료 기록",
   "Pool information": "Pool 정보",
   "Pool share": "Pool 지분",
+  "Pool Share refers to the portion of liquidity pool you own through your LP tokens. It does not mean shares in the farming pool.": "Pool Share refers to the portion of liquidity pool you own through your LP tokens. It does not mean shares in the farming pool.",
   "Pool trading fee": "Pool 거래수수료",
   "Pooled {{ticker}}": "Pool에 예치된 {{ticker}}",
   "Pools": "Pools",

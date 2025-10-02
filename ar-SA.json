@@ -854,6 +854,7 @@
   "Pool Fee history": "Pool Fee history",
   "Pool information": "Pool information",
   "Pool share": "Pool share",
+  "Pool Share refers to the portion of liquidity pool you own through your LP tokens. It does not mean shares in the farming pool.": "Pool Share refers to the portion of liquidity pool you own through your LP tokens. It does not mean shares in the farming pool.",
   "Pool trading fee": "Pool trading fee",
   "Pooled {{ticker}}": "Pooled {{ticker}}",
   "Pools": "Pools",
