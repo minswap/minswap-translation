@@ -1515,5 +1515,6 @@
   "Zap Out": "Zap Out",
   "Zapping in {{name}} pool": "Zapping in {{name}} pool",
   "Zapping out {{amount}} {{asset}}": "Zapping out {{amount}} {{asset}}",
+  "Cannot create proposal": "Cannot create proposal",
   "LP fee governance snapshot information is not available for this pool.": "LP fee governance snapshot information is not available for this pool."
 }
