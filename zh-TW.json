@@ -614,6 +614,7 @@
   "Low to high": "Low to high",
   "LP amount": "LP amount",
   "LP fee proposals": "LP fee proposals",
+  "LP fee governance snapshot information is not available for this pool.": "LP fee governance snapshot information is not available for this pool.",
   "LP Fee Proposals": "LP Fee Proposals",
   "LP positions worth": "LP positions worth",
   "LP tokens are being airdropped": "LP tokens are being airdropped",
@@ -1513,5 +1514,8 @@
   "Zap now": "Zap now",
   "Zap Out": "Zap Out",
   "Zapping in {{name}} pool": "Zapping in {{name}} pool",
-  "Zapping out {{amount}} {{asset}}": "Zapping out {{amount}} {{asset}}"
+  "Zapping out {{amount}} {{asset}}": "Zapping out {{amount}} {{asset}}",
+  "Cannot create proposal": "Cannot create proposal",
+  "The LP snapshot is not currently available for proposal creation. Please come back in 1 hour.": "The LP snapshot is not currently available for proposal creation. Please come back in 1 hour.",
+  "This proposal will use the LP snapshot taken at {{HH}}:00:00.": "This proposal will use the LP snapshot taken at {{HH}}:00:00."
 }

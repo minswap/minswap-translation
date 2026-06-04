@@ -614,6 +614,7 @@
   "Low to high": "오름차순",
   "LP amount": "LP 수량",
   "LP fee proposals": "LP 수수료 제안",
+  "LP fee governance snapshot information is not available for this pool.": "LP fee governance snapshot information is not available for this pool.",
   "LP Fee Proposals": "LP 수수료 제안",
   "LP positions worth": "LP 포지션 가치",
   "LP tokens are being airdropped": "LP토큰이 에어드롭 되었습니다",
@@ -1513,5 +1514,8 @@
   "Zap now": "Zap now",
   "Zap Out": "Zap Out",
   "Zapping in {{name}} pool": "Zapping in {{name}} pool",
-  "Zapping out {{amount}} {{asset}}": "Zapping out{{amount}} {{asset}}"
+  "Zapping out {{amount}} {{asset}}": "Zapping out{{amount}} {{asset}}",
+  "Cannot create proposal": "Cannot create proposal",
+  "The LP snapshot is not currently available for proposal creation. Please come back in 1 hour.": "The LP snapshot is not currently available for proposal creation. Please come back in 1 hour.",
+  "This proposal will use the LP snapshot taken at {{HH}}:00:00.": "This proposal will use the LP snapshot taken at {{HH}}:00:00."
 }
