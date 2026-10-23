@@ -1535,5 +1535,14 @@
   "The transaction could not be read. Please try again.": "The transaction could not be read. Please try again.",
   "Too many transactions from your network. Please wait a minute and try again.": "Too many transactions from your network. Please wait a minute and try again.",
   "The Minswap node is busy. Please try again in a few seconds.": "The Minswap node is busy. Please try again in a few seconds.",
-  "Some positions are too small to migrate: after slippage, one of the assets would round to 0. They stay in your wallet as V1 liquidity.": "Some positions are too small to migrate: after slippage, one of the assets would round to 0. They stay in your wallet as V1 liquidity."
+  "Some positions are too small to migrate: after slippage, one of the assets would round to 0. They stay in your wallet as V1 liquidity.": "Some positions are too small to migrate: after slippage, one of the assets would round to 0. They stay in your wallet as V1 liquidity.",
+  "The date range must not exceed 365 days.": "The date range must not exceed 365 days.",
+  "This range has more than 5,000 orders. To date was moved to": "This range has more than 5,000 orders. To date was moved to",
+  "A single day in this range has more than 5,000 orders.": "A single day in this range has more than 5,000 orders.",
+  "Export limit reached. Please try again in 10 minutes.": "Export limit reached. Please try again in 10 minutes.",
+  "Other exports are running. Please try again in 1 minute.": "Other exports are running. Please try again in 1 minute.",
+  "Export Failed": "Export Failed",
+  "The date range can be up to 365 days.": "The date range can be up to 365 days.",
+  "Summary: one row for each trade or liquidity action you made, even if it was split across platforms or routed through several pools.": "Summary: one row for each trade or liquidity action you made, even if it was split across platforms or routed through several pools.",
+  "Detailed: one row for each fill on a platform. With a Platform filter, only fills on that platform are included.": "Detailed: one row for each fill on a platform. With a Platform filter, only fills on that platform are included."
 }
